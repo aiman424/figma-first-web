@@ -11,7 +11,7 @@ const page = () => {
           <h1 className='text-[44px] font-bold'>Welcome To Our Website</h1>
           <p className='text-[32px] w-[571px] text-color2'>Lorem Ipsum is simply dummy text of 
            the printing and typesetting industry. 
-           Lorem Ipsum has been the industry's 
+           Lorem Ipsum has been the industry&apos;s 
            standard</p>
            <br/>
            <button className='box-border w-[237px] h-[60px] bg-button text-[28px] text-button2'>Contact US</button>
